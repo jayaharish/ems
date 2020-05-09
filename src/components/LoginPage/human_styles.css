@@ -1,0 +1,70 @@
+.human {
+  position: absolute;
+  height: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.h-1 {
+  fill: url(#linear-gradient);
+}
+.h-2 {
+  fill: #2a3547;
+}
+.h-3 {
+  fill: #f6aab3;
+}
+.h-4 {
+  fill: #e9eace;
+}
+.h-5 {
+  fill: url(#linear-gradient-2);
+}
+.h-6 {
+  fill: #6a6b86;
+}
+.h-7 {
+  fill: #f48631;
+}
+.h-8 {
+  fill: #2a3a49;
+}
+.h-9 {
+  fill: #3e455a;
+}
+.h-10 {
+  fill: #b7b8a6;
+}
+.h-11 {
+  fill: #bebfc0;
+}
+.h-12 {
+  fill: #b42671;
+}
+.h-13 {
+  fill: url(#linear-gradient-3);
+}
+.h-14 {
+  fill: #2e394a;
+}
+.h-15 {
+  fill: #2e3b4c;
+}
+.h-16 {
+  fill: #79777e;
+}
+.h-17 {
+  fill: #b36ba0;
+}
+.h-18 {
+  fill: #1f1d41;
+}
+.h-19 {
+  fill: #302c52;
+}
+.h-20 {
+  fill: #2b2755;
+}
+.h-21 {
+  fill: #2e2b57;
+}

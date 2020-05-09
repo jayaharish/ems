@@ -1,0 +1,46 @@
+.bg-svg-holder {
+  position: absolute;
+  height: 100%;
+  width: 50%;
+}
+
+.bg-svg-holder * {
+  position: absolute;
+}
+
+.bg-svg-holder .bottom-circle {
+  -webkit-transform: translate(-50%, 50%);
+          transform: translate(-50%, 50%);
+  height: 300px;
+  bottom: 0;
+  left: 0;
+}
+
+.bg-svg-holder .top-circle {
+  height: 400px;
+  top: 0;
+  left: 30px;
+  -webkit-transform: translateY(-70%);
+          transform: translateY(-70%);
+}
+
+.bg-svg-holder .in-circle {
+  height: 60px;
+  top: 65%;
+  left: 40%;
+}
+
+.bg-svg-holder .left-box {
+  height: 100px;
+  top: 30%;
+  left: 0;
+  -webkit-transform: translateX(-60%);
+          transform: translateX(-60%);
+}
+
+.bg-svg-holder .in-box {
+  height: 80px;
+  top: 20%;
+  left: 50%;
+}
+/*# sourceMappingURL=bgsvg.css.map */

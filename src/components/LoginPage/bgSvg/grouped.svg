@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 893.5 1296">
+  <defs>
+    <style>
+      .bg-shape-1 {
+        fill: none;
+      }
+
+      .bg-shape-2 {
+        fill: #a60b62;
+      }
+
+      .bg-shape-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .bg-shape-4 {
+        fill: #c61c73;
+      }
+
+      .bg-shape-5 {
+        fill: #a7176a;
+      }
+
+      .bg-shape-6 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .bg-shape-7 {
+        fill: #9e0c63;
+      }
+
+      .bg-shape-8 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .bg-shape-9 {
+        fill: #a51969;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(208 336)">
+      <rect class="bg-shape-1" y="460" width="300" height="308"/>
+    </clipPath>
+    <clipPath id="clip-path-2" transform="translate(208 336)">
+      <rect class="bg-shape-1" x="44" width="508" height="160"/>
+    </clipPath>
+    <clipPath id="clip-path-3" transform="translate(208 336)">
+      <rect class="bg-shape-1" y="92" width="140" height="200"/>
+    </clipPath>
+  </defs>
+  <title>grouped</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path class="bg-shape-2" d="M639.5,396a46,46,0,1,0,46,46A46,46,0,0,0,639.5,396Zm.24,75.25A29.22,29.22,0,1,1,669,442,29.22,29.22,0,0,1,639.74,471.25Z" transform="translate(208 336)"/>
+      <g class="bg-shape-3">
+        <path class="bg-shape-4" d="M22.5,499C-104.8,499-208,602.2-208,729.5S-104.8,960,22.5,960,253,856.8,253,729.5,149.8,499,22.5,499Zm1.23,377.09A146.43,146.43,0,1,1,170.15,729.66,146.43,146.43,0,0,1,23.73,876.09Z" transform="translate(208 336)"/>
+      </g>
+      <path class="bg-shape-5" d="M558.22,160.15,514.7,145.09a15.59,15.59,0,0,0-19.84,9.64L485,183.22a15.59,15.59,0,0,0,9.64,19.84l43.52,15.06A15.59,15.59,0,0,0,558,208.48L567.86,180A15.6,15.6,0,0,0,558.22,160.15Zm-10.57,33.17A15.6,15.6,0,0,1,527.81,203l-15.64-5.41a15.6,15.6,0,0,1-9.64-19.84l2.2-6.34a15.59,15.59,0,0,1,19.84-9.64l15.63,5.41A15.59,15.59,0,0,1,549.84,187Z" transform="translate(208 336)"/>
+      <g class="bg-shape-6">
+        <path class="bg-shape-7" d="M304-336C169.24-336,60-226.76,60-92S169.24,152,304,152,548,42.76,548-92,438.76-336,304-336Zm1.3,399.17a155,155,0,0,1-155-155,155,155,0,0,1,155-155,155,155,0,0,1,155,155A155,155,0,0,1,305.3,63.17Z" transform="translate(208 336)"/>
+      </g>
+      <g class="bg-shape-8">
+        <path class="bg-shape-9" d="M33.13,109.87l-97,44.78a36.18,36.18,0,0,0-17.67,48l29.32,63.47a36.17,36.17,0,0,0,48,17.67l97-44.78a36.17,36.17,0,0,0,17.67-48L81.14,127.54A36.17,36.17,0,0,0,33.13,109.87Zm35.65,72.45a36.17,36.17,0,0,1-17.67,48L16.28,246.41a36.16,36.16,0,0,1-48-17.67l-6.53-14.13a36.17,36.17,0,0,1,17.67-48l34.82-16.09a36.18,36.18,0,0,1,48,17.67Z" transform="translate(208 336)"/>
+      </g>
+    </g>
+  </g>
+</svg>

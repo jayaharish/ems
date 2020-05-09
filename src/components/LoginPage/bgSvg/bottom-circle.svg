@@ -1,0 +1,24 @@
+<svg viewBox="0 0 461 461">
+  <defs>
+    <style>
+      .bot-cir-1 {
+        fill: none;
+      }
+
+      .bot-cir-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .bot-cir-3 {
+        fill: #c61c73;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(208 -39)">
+      <rect class="bot-cir-1" width="300" height="308"/>
+    </clipPath>
+  </defs>
+  
+      
+  <path class="bot-cir-3" d="M22.5,39C-104.8,39-208,142.2-208,269.5S-104.8,500,22.5,500,253,396.8,253,269.5,149.8,39,22.5,39Zm1.23,377.09A146.43,146.43,0,1,1,170.15,269.66,146.43,146.43,0,0,1,23.73,416.09Z" transform="translate(208 -39)"/>
+
+</svg>

@@ -1,0 +1,28 @@
+<svg viewBox="0 0 488 488">
+  <defs>
+    <style>
+      .top-cir-1 {
+        fill: none;
+      }
+
+      .top-cir-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .top-cir-3 {
+        fill: #9e0c63;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(-16 336)">
+      <rect class="top-cir-1" width="508" height="160"/>
+    </clipPath>
+  </defs>
+  <title>top-circle</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g class="top-cir-2">
+        <path class="top-cir-3" d="M260-336C125.24-336,16-226.76,16-92S125.24,152,260,152,504,42.76,504-92,394.76-336,260-336Zm1.3,399.17a155,155,0,0,1-155-155,155,155,0,0,1,155-155,155,155,0,0,1,155,155A155,155,0,0,1,261.3,63.17Z" transform="translate(-16 336)"/>
+      </g>
+    </g>
+  </g>
+</svg>

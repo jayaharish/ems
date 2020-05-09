@@ -1,0 +1,77 @@
+.bot-cir-1 {
+  fill: none;
+}
+
+.bot-cir-2 {
+  clip-path: url(#clip-path);
+}
+
+.bot-cir-3 {
+  fill: #c61c73;
+}
+.top-cir-1 {
+  fill: none;
+}
+
+.top-cir-2 {
+  clip-path: url(#clip-path);
+}
+
+.top-cir-3 {
+  fill: #9e0c63;
+}
+.in-cir-1 {
+  fill: #a60b62;
+}
+.left-box-1 {
+  fill: none;
+}
+
+.left-box-2 {
+  clip-path: url(#clip-path);
+}
+
+.left-box-3 {
+  fill: #a51969;
+}
+.in-box-1 {
+  fill: rgb(175, 23, 112);
+}
+
+/*
+.bg-shape-1 {
+  fill: none;
+}
+
+.bg-shape-2 {
+  fill: #a60b62;
+}
+
+.bg-shape-3 {
+  clip-path: url(#clip-path);
+}
+
+.bg-shape-4 {
+  fill: #c61c73;
+}
+
+.bg-shape-5 {
+  fill: #a7176a;
+}
+
+.bg-shape-6 {
+  clip-path: url(#clip-path-2);
+}
+
+.bg-shape-7 {
+  fill: #9e0c63;
+}
+
+.bg-shape-8 {
+  clip-path: url(#clip-path-3);
+}
+
+.bg-shape-9 {
+  fill: #a51969;
+}
+*/

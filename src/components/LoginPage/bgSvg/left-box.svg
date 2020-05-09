@@ -1,0 +1,23 @@
+<svg viewBox="0 0 198.64 180.62">
+  <defs>
+    <style>
+      .left-box-1 {
+        fill: none;
+      }
+
+      .left-box-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .left-box-3 {
+        fill: #a51969;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(84.84 -14.52)">
+      <rect class="left-box-1" width="140" height="200"/>
+    </clipPath>
+  </defs>
+
+        <path class="left-box-3" d="M33.13,17.87l-97,44.78a36.18,36.18,0,0,0-17.67,48l29.32,63.47a36.17,36.17,0,0,0,48,17.67l97-44.78a36.17,36.17,0,0,0,17.67-48L81.14,35.54A36.17,36.17,0,0,0,33.13,17.87ZM68.78,90.32a36.17,36.17,0,0,1-17.67,48L16.28,154.41a36.16,36.16,0,0,1-48-17.67l-6.53-14.13a36.17,36.17,0,0,1,17.67-48L14.24,58.51a36.18,36.18,0,0,1,48,17.67Z" transform="translate(84.84 -14.52)"/>
+
+</svg>
